@@ -11,6 +11,8 @@
 		C8359B1C296CB83300FDC491 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8359B1B296CB83300FDC491 /* ContentView.swift */; };
 		C8359B1E296CB83500FDC491 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8359B1D296CB83500FDC491 /* Assets.xcassets */; };
 		C8359B21296CB83500FDC491 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8359B20296CB83500FDC491 /* Preview Assets.xcassets */; };
+		C8359B2A296CBEB300FDC491 /* ConversionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8359B29296CBEB300FDC491 /* ConversionController.swift */; };
+		C8359B2C296CBF8000FDC491 /* ConversionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8359B2B296CBF8000FDC491 /* ConversionCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C8359B1B296CB83300FDC491 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C8359B1D296CB83500FDC491 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8359B20296CB83500FDC491 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C8359B29296CBEB300FDC491 /* ConversionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionController.swift; sourceTree = "<group>"; };
+		C8359B2B296CBF8000FDC491 /* ConversionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				C8359B1B296CB83300FDC491 /* ContentView.swift */,
 				C8359B1D296CB83500FDC491 /* Assets.xcassets */,
 				C8359B1F296CB83500FDC491 /* Preview Content */,
+				C8359B29296CBEB300FDC491 /* ConversionController.swift */,
+				C8359B2B296CBF8000FDC491 /* ConversionCell.swift */,
 			);
 			path = mybath;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				C8359B1C296CB83300FDC491 /* ContentView.swift in Sources */,
 				C8359B1A296CB83300FDC491 /* mybathApp.swift in Sources */,
+				C8359B2A296CBEB300FDC491 /* ConversionController.swift in Sources */,
+				C8359B2C296CBF8000FDC491 /* ConversionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
